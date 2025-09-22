@@ -3,3 +3,8 @@
 #include <fstream>
 #include "Declarations.h"
 using namespace std;
+
+void Length()
+{
+}
+
